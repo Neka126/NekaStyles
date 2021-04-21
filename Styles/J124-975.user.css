@@ -8,10 +8,12 @@
 @license        NO-REDISTRIBUTION
 ==/UserStyle== */
 /* ------BACKGROUND------ */
+@-moz-document url("\\") {
 body{
     background-image:url("https://firebasestorage.googleapis.com/v0/b/dev-voice-226818.appspot.com/o/Pictures%2FJ124-975.png?alt=media&token=dbfe4a91-16ce-4409-b5a9-6c2854d79071");
     background-repeat:repeat;
     background-size:cover;
   background-position: center; 
     color:white;
+}
 }
